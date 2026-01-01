@@ -121,3 +121,4 @@ open index.html
 
 **Создано с ❤️ для эффективного изучения японского языка**
 ```
+日本語が好きです / にほんごがすきです / Nihongo ga suki desu / Я люблю японский язык / J'aime le japonais / Ich mag Japanisch / Me encanta el japonés / Mi piace il giapponese / Eu amo o japonês
