@@ -774,43 +774,6 @@
                 grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             }
         }
-
-        /* Тёмная тема (системная настройка) */
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --light: #2c3e50;
-                --dark: #ecf0f1;
-                --secondary: #bdc3c7;
-            }
-            
-            body {
-                background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-                color: var(--dark);
-            }
-            
-            .tab-content, .instructions, .stat-card, .deck-card, header, .tabs {
-                background: #2c3e50;
-                color: var(--dark);
-            }
-            
-            .card-item:nth-child(even) {
-                background: #34495e;
-            }
-            
-            .instructions {
-                background: #34495e;
-            }
-            
-            input, textarea, select {
-                background: #34495e;
-                color: var(--dark);
-                border-color: #4a6572;
-            }
-            
-            .option {
-                background: #34495e;
-            }
-        }
     </style>
 </head>
 <body>
